@@ -1,0 +1,18 @@
+#dashboard_wrap{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background: none;
+  };
+  .head h2 {
+      font-weight: 600;
+      font-size: 24px;
+      color: #000000;
+  
+    }
+    h2 {
+      font-weight: 600;
+      font-size: 24px;
+      color: #000000;
+     
+    }
